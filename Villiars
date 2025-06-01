@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Book Your Private Jet | Sugar's Exclusive Link</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #cbd5e0;
+    }
+    .btn {
+      background-color: #fcd34d;
+      color: #1f2937;
+      padding: 1rem 2rem;
+      font-size: 1.1rem;
+      border: none;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background-color: #fbbf24;
+    }
+    .container {
+      text-align: center;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fly Like Royalty</h1>
+    <p>Book luxury private jets effortlessly through Sugar's exclusive portal</p>
+  </header>
+  <div class="container">
+    <a class="btn" href="https://www.villiersjets.com/?id=10136" target="_blank">Book Now</a>
+  </div>
+</body>
+</html>
